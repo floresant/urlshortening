@@ -1,0 +1,9 @@
+#navlist {
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+}
+
+#navList * {
+    padding: 10px;
+}
